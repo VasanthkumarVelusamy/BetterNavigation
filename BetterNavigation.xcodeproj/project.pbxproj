@@ -10,6 +10,8 @@
 		769AE4F02A0762AF00B729F4 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 769AE4EF2A0762AF00B729F4 /* Coordinator.swift */; };
 		769AE4F22A0762B700B729F4 /* Storyboarded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 769AE4F12A0762B700B729F4 /* Storyboarded.swift */; };
 		769AE4F42A0762C500B729F4 /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 769AE4F32A0762C500B729F4 /* MainCoordinator.swift */; };
+		769AE5182A07D23100B729F4 /* ScanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 769AE5172A07D23100B729F4 /* ScanViewController.swift */; };
+		769AE51A2A07D24B00B729F4 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 769AE5192A07D24B00B729F4 /* ProfileViewController.swift */; };
 		76FB98012A06BBE300EF1D48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76FB98002A06BBE300EF1D48 /* AppDelegate.swift */; };
 		76FB98052A06BBE300EF1D48 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76FB98042A06BBE300EF1D48 /* ViewController.swift */; };
 		76FB98082A06BBE300EF1D48 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76FB98062A06BBE300EF1D48 /* Main.storyboard */; };
@@ -21,6 +23,8 @@
 		769AE4EF2A0762AF00B729F4 /* Coordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		769AE4F12A0762B700B729F4 /* Storyboarded.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Storyboarded.swift; sourceTree = "<group>"; };
 		769AE4F32A0762C500B729F4 /* MainCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = SOURCE_ROOT; };
+		769AE5172A07D23100B729F4 /* ScanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanViewController.swift; sourceTree = "<group>"; };
+		769AE5192A07D24B00B729F4 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		76FB97FD2A06BBE300EF1D48 /* BetterNavigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterNavigation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		76FB98002A06BBE300EF1D48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		76FB98042A06BBE300EF1D48 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				76FB98002A06BBE300EF1D48 /* AppDelegate.swift */,
 				769AE4F12A0762B700B729F4 /* Storyboarded.swift */,
 				769AE4F32A0762C500B729F4 /* MainCoordinator.swift */,
+				769AE5172A07D23100B729F4 /* ScanViewController.swift */,
+				769AE5192A07D24B00B729F4 /* ProfileViewController.swift */,
 				769AE4EF2A0762AF00B729F4 /* Coordinator.swift */,
 				76FB98042A06BBE300EF1D48 /* ViewController.swift */,
 				76FB98062A06BBE300EF1D48 /* Main.storyboard */,
@@ -148,7 +154,9 @@
 				769AE4F42A0762C500B729F4 /* MainCoordinator.swift in Sources */,
 				76FB98052A06BBE300EF1D48 /* ViewController.swift in Sources */,
 				769AE4F22A0762B700B729F4 /* Storyboarded.swift in Sources */,
+				769AE51A2A07D24B00B729F4 /* ProfileViewController.swift in Sources */,
 				76FB98012A06BBE300EF1D48 /* AppDelegate.swift in Sources */,
+				769AE5182A07D23100B729F4 /* ScanViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
